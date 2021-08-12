@@ -1,3 +1,7 @@
+.menu {
+    width: 100%;
+}
+
 .menu * {
-    display: flex;
+    font-size: 15px;
 }

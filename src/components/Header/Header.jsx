@@ -7,7 +7,7 @@ export default function HeaderComp(){
         <>
             <div className="headerdiv">
                 <div className="name">
-                    <h2>ALLIE DELANO BATEMAN</h2>
+                    <h1>ALLIE DELANO BATEMAN</h1>
                 </div>
                 <div className="icons">
                     <Icon name="github" size="large" />

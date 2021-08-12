@@ -1,0 +1,8 @@
+.home {
+    background-image: url('../../images/sunriseJump.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 900px;
+    background-position: center;
+}

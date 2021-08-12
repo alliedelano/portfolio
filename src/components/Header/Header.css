@@ -8,6 +8,6 @@
 
 .headerdiv * {
     align-self: center;
-    
-
+    margin-left: 1vw;
+    margin-right: 1vw;
 }

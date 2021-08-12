@@ -14,7 +14,7 @@ export default function NavBar() {
     return(
         <>
             <div className="menu">
-            <Menu stackable pointing>
+            <Menu stackable>
                 <Link to="/"><Menu.Item>Home</Menu.Item></Link>
                 <Link to="/projects"><Menu.Item>Projects</Menu.Item></Link>
                 <Link to="/resume"><Menu.Item>Resume</Menu.Item></Link>
