@@ -9,7 +9,7 @@ export default function Projects(){
         <>
             <HeaderComp />
             <NavBar />
-            <h1>Projects</h1>
+            <h1>PROJECTS</h1>
             <ProjectDisplay projects={projects} />
         </>
     )

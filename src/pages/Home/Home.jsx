@@ -1,6 +1,6 @@
 import React from 'react'
 import HeaderComp from '../../components/Header/Header'
-import About from '../../components/About/About'
+import Tagline from '../../components/Tagline/Tagline'
 import NavBar from '../../components/NavBar/NavBar'
 import './Home.css'
 
@@ -11,7 +11,7 @@ export default function Home(){
             <div className="home">
                 <HeaderComp />
                 <NavBar />
-                <About />
+                <Tagline />
             </div>
         </>
     )

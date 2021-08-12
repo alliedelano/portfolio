@@ -5,6 +5,7 @@ import './App.css';
 import Home from '../Home/Home'
 import Projects from '../Projects/Projects'
 import Resume from '../Resume/Resume'
+import AboutMe from '../AboutMe/AboutMe'
 
 function App() {
   return (
@@ -12,6 +13,9 @@ function App() {
         <Switch>
           <Route exact path="/">
             <Home />
+          </Route>
+          <Route exact path="/aboutme">
+            <AboutMe/>
           </Route>
           <Route exact path="/projects">
             <Projects />

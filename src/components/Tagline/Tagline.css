@@ -1,0 +1,24 @@
+.home-tagline {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    min-height: 70vh;  
+}
+
+.home-tagline * {
+    padding: 5px;
+}
+
+.ui.text.fluid.container.about-me-container * {
+    margin: 3px;
+}
+
+.tagline {
+    color: white;
+}
+
+.button {
+    width: 125px;
+    
+}
