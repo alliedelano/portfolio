@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.App {
+  background-image: url('../../images/sunriseJump.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  min-height: 900px;
+  background-position: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
