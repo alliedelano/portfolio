@@ -11,7 +11,7 @@ const projects = [
     },
     {
         title: "Happy Trails",
-        type: "Group Concept Project",
+        type: "Team Concept Project",
         date: "July 2021",
         description: "Happy Trails is a Python-based app for keeping track of favorite hiking trails and their amenities. It was built using Django and PostgreSQL. ",
         image_one: "../../images/happy_trails.png",
