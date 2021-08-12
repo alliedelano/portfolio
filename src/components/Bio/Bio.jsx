@@ -1,22 +1,18 @@
 import React from 'react';
-import { Grid } from 'semantic-ui-react'
+import { Segment, Image } from 'semantic-ui-react'
+import './Bio.css'
+import picture from '../../images/me.png'
 
 export default function Bio(){
     return(
         <>
-            <div>
+            <div className="bio-profile">
 
-            
-            <Grid>
-                <Grid.Row>
-                    <Grid.Column>
-                        PHOTO
-                    </Grid.Column>
-                    <Grid.Column>
-                        DETAILS
-                    </Grid.Column>
-                </Grid.Row>
-            </Grid>
+            <Segment className="bio-segment">
+                <Image src={picture} size="small" floated="left" inline spaced/>
+                <p>Some text</p>
+                <p>Other text</p>
+            </Segment>
 
             </div>
 
