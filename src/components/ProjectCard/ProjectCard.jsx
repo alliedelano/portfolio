@@ -11,12 +11,11 @@ export default function ProjectCard( {project} ){
             <Card fluid blue>
                 <Grid textAlign="center" stackable>
                     <Grid.Row>
-                    
                     <Grid.Column width={10} textAlign="left">
                         <br />
                         <h3>{project.title}</h3>
                         <p>{project.description}</p> 
-                        <h5>{project.date}</h5>
+                        <h5>{project.type}<br />{project.date}</h5>
                     </Grid.Column>
                     <Grid.Column width={4}>
                         <br />
@@ -42,10 +41,10 @@ export default function ProjectCard( {project} ){
                                 <p>{project.additionalDetails}</p>
                             </Grid.Column>
                             <Grid.Column width={2}>
-                                <p>{project.githubLink}</p>
+                                    <a href={project.deployedLink}>Check out the live app</a>
                             </Grid.Column>
                             <Grid.Column width={2}>
-                                <p>{project.deployedLink}</p>
+                                    <a href={project.githubLink}>See More Details on Github</a>
                             </Grid.Column>
                         </Grid.Row>
                     </Grid>
@@ -56,7 +55,7 @@ export default function ProjectCard( {project} ){
                      : <><Accordion.Title
                         onClick={onTitleClick}
                     >
-                        <Icon name="dropdown" />
+                        <Icon name="dropdown" rotated="counterclockwise"/>
                         More Details
                     </Accordion.Title></>
                 }
