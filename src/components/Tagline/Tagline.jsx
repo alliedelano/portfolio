@@ -12,7 +12,7 @@ export default function Tagline(){
                     I listen, synthesize, create, and advocate, and am a tenacious problem-solver, athlete, and adventurer.
                     </h2>
                     <br />
-                    <Link to="/aboutme"><Button color="blue" className="btn">About</Button></Link>
+                    <Link to="/aboutme"><Button color="blue" className="btn">About Me</Button></Link>
                     <Link to="/projects"><Button color="blue" className="btn">Projects</Button></Link>
                     <Link to="/resume"><Button color="blue" className="btn">Resume</Button></Link>
                     <br />
