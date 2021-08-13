@@ -49,7 +49,7 @@ export default function ResumeDisplay(){
                     </Grid.Row>
                 </Grid>
             </Segment>
-            <Segment>
+            <Segment padded="very">
                 <Grid stackable>
                     <Grid.Row>
                         <Grid.Column textAlign="left">
@@ -96,7 +96,7 @@ export default function ResumeDisplay(){
                     </Grid.Row>
                 </Grid>
             </Segment>
-            <Segment>
+            <Segment padded="very">
                 <Grid stackable>
                     <Grid.Row>
                         <Grid.Column textAlign="left">

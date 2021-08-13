@@ -10,6 +10,9 @@ export default function ProjectDisplay( { projects }){
                     )}
 
             </div>  
+            <br />
+            <br />
+            <br />
         </>
     )
 }
