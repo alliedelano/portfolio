@@ -1,4 +1,4 @@
-![home screen](src/images/home_screen.png)
+![home screen](src/images/home_screen_shot.png)
 
 # My Portfolio
 The goals of this portfolio are to tell the world who I am, showcase my work, and demonstrate my skills. 
