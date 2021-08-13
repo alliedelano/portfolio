@@ -23,11 +23,11 @@ export default function Bio(){
                     <p>
                         Although I’ve never worked in tech, I’ve always looked for ways to make life easier 
                         through creating systems and adapting technology. Over the last few years, I’ve 
-                        designed and implemented systems for human resource allocation and forecast, partnerships, 
+                        designed and implemented systems for human resource allocation and forecasting, partnerships, 
                         project management, training new team members, cataloguing tools and resources, and data 
-                        collection. More recently, as I tried to update these systems to make them more efficient 
+                        collection. Recently, as I tried to update some of these systems to make them more efficient 
                         and collaborative, I found my tech skills kept hitting a wall. Unsatisfied with 
-                        accepting this wall, I enrolled in a full-time Software Engineering Immersive program and 
+                        accepting this block, I enrolled in a full-time Software Engineering Immersive program and 
                         added full-stack development skills to my toolkit.
                     </p>
                     <p>

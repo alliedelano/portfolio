@@ -1,7 +1,7 @@
 import React from 'react';
 import HeaderComp from '../../components/Header/Header'
 import NavBar from '../../components/NavBar/NavBar'
-import WorkDisplay from '../../components/WorkDisplay/WorkDisplay'
+import ResumeDisplay from '../../components/ResumeDisplay/ResumeDisplay'
 
 
 export default function Resume(){
@@ -10,7 +10,7 @@ export default function Resume(){
             <HeaderComp />
             <NavBar />
             <h1>RESUME</h1>
-            <WorkDisplay />
+            <ResumeDisplay />
               
         </>
     )

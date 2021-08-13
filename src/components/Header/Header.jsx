@@ -13,7 +13,6 @@ export default function HeaderComp(){
                 <div className="icons">
                     <a href=""><Icon name="github" size="large" /></a>
                     <a href=""><Icon name="linkedin" size="large"/></a>
-                    <a href=""><Icon name="instagram" size="large"/></a>
                     <a href=""><Icon name="mail" size="large"/></a>
                 </div>
             </div>
