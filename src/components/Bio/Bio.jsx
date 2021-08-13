@@ -33,9 +33,9 @@ export default function Bio(){
                     <p>
                         I’m excited to keep creating, building, and innovating and look forward to working with 
                         organizations I’ve known for years, as well as those I have yet to meet. My goal is to 
-                        continue helping tiny teams with big dreams to scale their impact with technology and 
-                        systems that truly fit their needs. If you’d like to build something together, please 
-                        get in touch!
+                        continue helping tiny teams with big dreams to operationalize their work and strategically scale 
+                        their impact with technology and systems that truly fit their needs. If you’d like to 
+                        build something together, please get in touch!
                     </p>
                     <br />
                 </Segment>
