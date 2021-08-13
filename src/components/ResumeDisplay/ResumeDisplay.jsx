@@ -25,7 +25,7 @@ export default function ResumeDisplay(){
                         </Grid.Column>
                         <Grid.Column width={9} textAlign="left">
                             <ul>
-                                <li>Program manager for the Ford NGL Roadmap (a five-phase process for transforming education and community partnerships through the career academy model</li> 
+                                <li>Program manager for the Ford NGL Roadmap (a five-phase process for transforming education and community partnerships through the career academy model)</li> 
                                 <li>Supported a team of 15 Ford NGL Coaches</li> 
                                 <li>Developed a relational database system for human resource tracking and forecasting</li>
                                 <li>Managed multi-year contracts and invoicing for dozens of clients</li>
@@ -82,6 +82,7 @@ export default function ResumeDisplay(){
                                 <li>Contracts & Invoicing</li>
                                 <li>Agile Methodologies</li>
                                 <li>Facilitation</li>
+                                <li>Strategic Planning</li>
                             </ul>
                         </Grid.Column>
                         <Grid.Column textAlign="left">

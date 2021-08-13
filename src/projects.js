@@ -23,7 +23,7 @@ const projects = [
         title: "Partner & Project Management Tool",
         type: "Solo Concept Project",
         date: "June 2021",
-        description: "Developed with colleagues at the Edge Foundation in mind, this a simple CRM and project management tool was built using the MEN stack.",
+        description: "Developed with colleagues at the Edge Foundation in mind, this simple CRM and project management tool was built using the MEN stack.",
         image_one: "../../images/efl_ppmt.png",
         githubLink: "https://github.com/alliedelano/partner-projects",
         deployedLink: "https://eflpartnerprojects.herokuapp.com/",
